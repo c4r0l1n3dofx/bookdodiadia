@@ -55,8 +55,8 @@ Site de livros. Onde falaremos sobre livro tanto de outros países
   </section>
 
   <section id="section2">
-    <h2>Livros Mais Vendidos</h2>
-    <p>Confira os livros mais populares do momento.</p>
+    <h2>Livros Mais Vendidos da Bienal</h2>
+    <p>Confira os livros mais populares da Bienal 2023</p>
     <!-- Adicionar lista de livros mais vendidos -->
   </section>
 
@@ -67,7 +67,7 @@ Site de livros. Onde falaremos sobre livro tanto de outros países
   </section>
 
   <footer>
-    <p>&copy; 2022 Meu Site de Livros</p>
+    <p>&copy; 2023 Meu Site de Livros</p>
   </footer>
 
 </body>
